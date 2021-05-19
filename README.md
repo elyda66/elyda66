@@ -2,7 +2,7 @@
 
 <br/>
     <p align="center" height="100">I'm student of computer science.<p/>
-    <p align="center" height="100">interest in UI, UX and Front-end.<p/>
+    <p align="center" height="100">interest in UI, UX and Front-end developer.<p/>
 <br/>
 
 <table border="4px" >
