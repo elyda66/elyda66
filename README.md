@@ -1,8 +1,9 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25px"> Hi! I'm Èlyda  </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="25px"> Hi! I'm Èlyda  <img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='90'> </h1>
 
 <br/>
     <p align="center" height="100">I'm student of computer science.<p/>
     <p align="center" height="100">interest in UI, UX and Front-end developer.<p/>
+     
 <br/>
 
 <table border="4px" >
@@ -30,9 +31,10 @@
     </td>
   </tr>
    <tr>
-     <td height="100" colspan="2" align="center">
+     <td width="600" height="100" colspan="2" align="center">
         <h1 align="center">- Visits -<h1/>
-        <img src ="https://profile-counter.glitch.me/elyda66/count.svg">
+        <img align="center" src ="https://profile-counter.glitch.me/elyda66/count.svg">
      </td>
   </tr>
 </table>
+
